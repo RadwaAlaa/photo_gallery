@@ -1,16 +1,39 @@
 # photo_gallery
 
-A new Flutter project.
+flutter app
 
-## Getting Started
+statemenagement used:
 
-This project is a starting point for a Flutter application.
+BLOC - Cubit, 
+used to handle rebuilding the UI after getting the data from backend of after filtered.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Archeture used: SOLID 
+ seperating responsabilities and relying on interfacing to make the code more reliable and scalable.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+api used:
+
+banner json file: 
+https://gist.githubusercontent.com/RadwaAlaa/423521c7b03dbdd2378839e2cc5e5858/raw/75aea5078b687f6d89b300a1f2ff2dd0abf4bab3/banner.json
+
+
+venues json file:
+https://gist.githubusercontent.com/lazarohcm/3cf83b2b2aa83d20fa196d5aad63bde3/raw/f8f155cd3767c8e1ee70a6af1daf3e33632c1c85/venues.json
+
+
+packages used: 
+- http: for handling http requests
+- carousel_slider: for creating carousel sliding view.
+- flutter_bloc: for integrating  cubit in flutter.
+
+
+
+things to be done: 
+- Unit testing for api 
+- Unit testing for cubit & repository.
+- enhance UI by adding fonts and colors.
