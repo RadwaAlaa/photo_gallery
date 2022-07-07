@@ -34,6 +34,5 @@ packages used:
 
 
 things to be done: 
-- Unit testing for api 
-- Unit testing for cubit & repository.
+- Unit testing for api, cubit & repository.
 - enhance UI by adding fonts and colors.
