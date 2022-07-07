@@ -21,6 +21,16 @@ class _HomePageState extends State<HomePage> {
             Expanded(child: VenuesList(venues: state.venues))
           ],
         );
+      } else if (state is FailedToLoad) {
+        return const Center(
+          child: Text(
+            "Failed to load data!",
+            style: TextStyle(
+              fontSize: 20,
+              color: Colors.black,
+            ),
+          ),
+        );
       } else {
         return const Center(
           child: CircularProgressIndicator(),

@@ -9,3 +9,5 @@ class BannersLoaded extends HomeState {
   List<Venue> venues;
   BannersLoaded({required this.banners, required this.venues});
 }
+
+class FailedToLoad extends HomeState {}

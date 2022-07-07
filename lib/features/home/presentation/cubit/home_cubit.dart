@@ -20,14 +20,16 @@ class HomeCubit extends Cubit<HomeState> {
     allBanners = await repository.getBannersList();
     allVenues = await repository.getVenuesList();
 
-    filteredVenues = allVenues
-        .where(
-          (element) => element.type == allBanners.first.type,
-        )
-        .toList();
-    print("filtered " + filteredVenues.length.toString());
+    if (allBanners.length > 0) {
+      filteredVenues = allVenues
+          .where(
+            (element) => element.type == allBanners.first.type,
+          )
+          .toList();
 
-    emit(BannersLoaded(banners: allBanners, venues: filteredVenues));
+      emit(BannersLoaded(banners: allBanners, venues: filteredVenues));
+    } else
+      emit(FailedToLoad());
   }
 
   filterVenues(int index) {
