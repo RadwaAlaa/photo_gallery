@@ -32,6 +32,11 @@ packages used:
 - flutter_bloc: for integrating  cubit in flutter.
 
 
+code magic apk release: 
+https://api.codemagic.io/artifacts/bfb2c440-4ed7-4cce-a6b7-959f5c93a1ae/96cbe87b-ad7e-43ea-88f5-015962abc7c7/app-release.apk
+
+
+
 
 things to be done: 
 - Unit testing for api, cubit & repository.
