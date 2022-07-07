@@ -12,6 +12,10 @@ Archeture used: SOLID
  seperating responsabilities and relying on interfacing to make the code more reliable and scalable.
 
 
+- the app is designed by features, and for now we have only one feature which is hompe page, 
+- the data sources for data is coming from the remote api
+- the repository interface states the formate for the methods that are called to get and set data from json.
+- the cubit populates and rebuild the ui with the retrieved data. 
 
 
 
