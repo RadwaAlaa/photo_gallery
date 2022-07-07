@@ -22,7 +22,7 @@ class CarouselBanner extends StatelessWidget {
       ),
       items: banners
           .map((item) => Container(
-              color: Colors.yellow,
+              color: Colors.transparent,
               margin: const EdgeInsets.all(0),
               child: Image.network(item.image, loadingBuilder:
                   (BuildContext context, Widget child,
@@ -32,7 +32,6 @@ class CarouselBanner extends StatelessWidget {
                   child: Center(
                     child: CircularProgressIndicator(
                       color: Colors.blue,
-                    
                     ),
                   ),
                 );
