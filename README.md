@@ -12,6 +12,10 @@ Archeture used: SOLID
  seperating responsabilities and relying on interfacing to make the code more reliable and scalable.
 
 
+- the app is designed by features, and for now we have only one feature which is hompe page, 
+- the data sources for data is coming from the remote api
+- the repository interface states the formate for the methods that are called to get and set data from json.
+- the cubit populates and rebuild the ui with the retrieved data. 
 
 
 
@@ -30,6 +34,11 @@ packages used:
 - http: for handling http requests
 - carousel_slider: for creating carousel sliding view.
 - flutter_bloc: for integrating  cubit in flutter.
+
+
+code magic apk release: 
+https://api.codemagic.io/artifacts/bfb2c440-4ed7-4cce-a6b7-959f5c93a1ae/96cbe87b-ad7e-43ea-88f5-015962abc7c7/app-release.apk
+
 
 
 
