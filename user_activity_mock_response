@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+            "type": "collection_redemption",
+            "venue": {
+                "id": "5e5b9f4025e43a4365436ff6",
+                "name": "FitRepublik",
+                "short_name": "FitRepublik",
+                "type": "gym",
+                "revolving": false,
+                "phone_number": "04 556 1800",
+                "emirate": "Dubai",
+                "pin_codes": [
+                    {
+                        "code": "5111",
+                        "expiry_date": null,
+                        "date_added": "20/05/2021 05:55",
+                        "staff_id": "5e53a16b25e43a1ecc49581c",
+                        "is_expired": false
+                    }
+                ],
+                "password": "$2y$10$AlLvOlRzSIwAWrTrW1vR8Oe7PPXvpgBGPoZrQ1PpgPMt4PpE7ByLi",
+                "booking_display_cap": null,
+                "prismic_id": "XM_RcREAACAAJMza",
+                "legacy_id": "80",
+                "is_family_check_in": false,
+                "has_class_check_in": true,
+                "has_limited_access": false,
+                "venue_group_ids": [],
+                "complimentary_class_total": null,
+                "created_at": "2019-05-05T16:44:46+00:00",
+                "modified_at": "2022-02-04T06:44:44+00:00",
+                "deleted_at": null
+            },
+            "product": {
+                "id": "5e9d8ca4b812693c1623910c",
+                "name": "Valentine",
+                "type": "plan",
+                "price": 799,
+                "legacy_id": 35,
+                "is_recurring": false,
+                "duration": "1m",
+                "frequency": "1m",
+                "nb_adults": 1,
+                "nb_children": 3,
+                "is_monthly": 0,
+                "split_payments": null,
+                "payment_price": 799,
+                "plan_group": [
+                    "Legacy Plan",
+                    "legacy"
+                ],
+                "plan_tiers": [],
+                "price_copy": "AED 799/month per adult",
+                "payment_description": "1 payment of AED 799",
+                "terms": null,
+                "description": null,
+                "access_restrictions": []
+            },
+            "savings": 125,
+            "date": "26/05/2023 10:08:03"
+        },
+        {
+            "type": "discount_redemption",
+            "venue": {
+                "id": "5e5b9f4025e43a4365436ff6",
+                "name": "FitRepublik",
+                "short_name": "FitRepublik",
+                "type": "gym",
+                "revolving": false,
+                "phone_number": "04 556 1800",
+                "emirate": "Dubai",
+                "pin_codes": [
+                    {
+                        "code": "5111",
+                        "expiry_date": null,
+                        "date_added": "20/05/2021 05:55",
+                        "staff_id": "5e53a16b25e43a1ecc49581c",
+                        "is_expired": false
+                    }
+                ],
+                "password": "$2y$10$AlLvOlRzSIwAWrTrW1vR8Oe7PPXvpgBGPoZrQ1PpgPMt4PpE7ByLi",
+                "booking_display_cap": null,
+                "prismic_id": "XM_RcREAACAAJMza",
+                "legacy_id": "80",
+                "is_family_check_in": false,
+                "has_class_check_in": true,
+                "has_limited_access": false,
+                "venue_group_ids": [],
+                "complimentary_class_total": null,
+                "created_at": "2019-05-05T16:44:46+00:00",
+                "modified_at": "2022-02-04T06:44:44+00:00",
+                "deleted_at": null
+            },
+            "product": {
+                "id": "5e9d8ca4b812693c1623910c",
+                "name": "Valentine",
+                "type": "plan",
+                "price": 799,
+                "legacy_id": 35,
+                "is_recurring": false,
+                "duration": "1m",
+                "frequency": "1m",
+                "nb_adults": 1,
+                "nb_children": 3,
+                "is_monthly": 0,
+                "split_payments": null,
+                "payment_price": 799,
+                "plan_group": [
+                    "Legacy Plan",
+                    "legacy"
+                ],
+                "plan_tiers": [],
+                "price_copy": "AED 799/month per adult",
+                "payment_description": "1 payment of AED 799",
+                "terms": null,
+                "description": null,
+                "access_restrictions": []
+            },
+            "savings": 300,
+            "date": "26/05/2023 10:07:32"
+        },
+        {
+            "type": "discount_redemption",
+            "venue": {
+                "id": "5e5b9f4025e43a4365436ff6",
+                "name": "FitRepublik",
+                "short_name": "FitRepublik",
+                "type": "gym",
+                "revolving": false,
+                "phone_number": "04 556 1800",
+                "emirate": "Dubai",
+                "pin_codes": [
+                    {
+                        "code": "5111",
+                        "expiry_date": null,
+                        "date_added": "20/05/2021 05:55",
+                        "staff_id": "5e53a16b25e43a1ecc49581c",
+                        "is_expired": false
+                    }
+                ],
+                "password": "$2y$10$AlLvOlRzSIwAWrTrW1vR8Oe7PPXvpgBGPoZrQ1PpgPMt4PpE7ByLi",
+                "booking_display_cap": null,
+                "prismic_id": "XM_RcREAACAAJMza",
+                "legacy_id": "80",
+                "is_family_check_in": false,
+                "has_class_check_in": true,
+                "has_limited_access": false,
+                "venue_group_ids": [],
+                "complimentary_class_total": null,
+                "created_at": "2019-05-05T16:44:46+00:00",
+                "modified_at": "2022-02-04T06:44:44+00:00",
+                "deleted_at": null
+            },
+            "product": {
+                "id": "5e9d8ca4b812693c1623910c",
+                "name": "Valentine",
+                "type": "plan",
+                "price": 799,
+                "legacy_id": 35,
+                "is_recurring": false,
+                "duration": "1m",
+                "frequency": "1m",
+                "nb_adults": 1,
+                "nb_children": 3,
+                "is_monthly": 0,
+                "split_payments": null,
+                "payment_price": 799,
+                "plan_group": [
+                    "Legacy Plan",
+                    "legacy"
+                ],
+                "plan_tiers": [],
+                "price_copy": "AED 799/month per adult",
+                "payment_description": "1 payment of AED 799",
+                "terms": null,
+                "description": null,
+                "access_restrictions": []
+            },
+            "savings": 240,
+            "date": "26/05/2023 10:07:24"
+        },
+        {
+            "type": "checkin",
+            "venue": {
+                "id": "5e5b9f4025e43a4365436ff6",
+                "name": "FitRepublik",
+                "short_name": "FitRepublik",
+                "type": "gym",
+                "revolving": false,
+                "phone_number": "04 556 1800",
+                "emirate": "Dubai",
+                "pin_codes": [
+                    {
+                        "code": "5111",
+                        "expiry_date": null,
+                        "date_added": "20/05/2021 05:55",
+                        "staff_id": "5e53a16b25e43a1ecc49581c",
+                        "is_expired": false
+                    }
+                ],
+                "password": "$2y$10$AlLvOlRzSIwAWrTrW1vR8Oe7PPXvpgBGPoZrQ1PpgPMt4PpE7ByLi",
+                "booking_display_cap": null,
+                "prismic_id": "XM_RcREAACAAJMza",
+                "legacy_id": "80",
+                "is_family_check_in": false,
+                "has_class_check_in": true,
+                "has_limited_access": false,
+                "venue_group_ids": [],
+                "complimentary_class_total": null,
+                "created_at": "2019-05-05T16:44:46+00:00",
+                "modified_at": "2022-02-04T06:44:44+00:00",
+                "deleted_at": null
+            },
+            "product": {
+                "id": "5e9d8ca4b812693c1623910c",
+                "name": "Valentine",
+                "type": "plan",
+                "price": 799,
+                "legacy_id": 35,
+                "is_recurring": false,
+                "duration": "1m",
+                "frequency": "1m",
+                "nb_adults": 1,
+                "nb_children": 3,
+                "is_monthly": 0,
+                "split_payments": null,
+                "payment_price": 799,
+                "plan_group": [
+                    "Legacy Plan",
+                    "legacy"
+                ],
+                "plan_tiers": [],
+                "price_copy": "AED 799/month per adult",
+                "payment_description": "1 payment of AED 799",
+                "terms": null,
+                "description": null,
+                "access_restrictions": []
+            },
+            "savings": 100,
+            "date": "26/05/2023 10:06:46"
+        },
+        {
+            "type": "checkin",
+            "venue": {
+                "id": "5e5b9f4025e43a4365436ff6",
+                "name": "FitRepublik",
+                "short_name": "FitRepublik",
+                "type": "gym",
+                "revolving": false,
+                "phone_number": "04 556 1800",
+                "emirate": "Dubai",
+                "pin_codes": [
+                    {
+                        "code": "5111",
+                        "expiry_date": null,
+                        "date_added": "20/05/2021 05:55",
+                        "staff_id": "5e53a16b25e43a1ecc49581c",
+                        "is_expired": false
+                    }
+                ],
+                "password": "$2y$10$AlLvOlRzSIwAWrTrW1vR8Oe7PPXvpgBGPoZrQ1PpgPMt4PpE7ByLi",
+                "booking_display_cap": null,
+                "prismic_id": "XM_RcREAACAAJMza",
+                "legacy_id": "80",
+                "is_family_check_in": false,
+                "has_class_check_in": true,
+                "has_limited_access": false,
+                "venue_group_ids": [],
+                "complimentary_class_total": null,
+                "created_at": "2019-05-05T16:44:46+00:00",
+                "modified_at": "2022-02-04T06:44:44+00:00",
+                "deleted_at": null
+            },
+            "product": {
+                "id": "5e9d8ca4b812693c1623910c",
+                "name": "Valentine",
+                "type": "plan",
+                "price": 799,
+                "legacy_id": 35,
+                "is_recurring": false,
+                "duration": "1m",
+                "frequency": "1m",
+                "nb_adults": 1,
+                "nb_children": 3,
+                "is_monthly": 0,
+                "split_payments": null,
+                "payment_price": 799,
+                "plan_group": [
+                    "Legacy Plan",
+                    "legacy"
+                ],
+                "plan_tiers": [],
+                "price_copy": "AED 799/month per adult",
+                "payment_description": "1 payment of AED 799",
+                "terms": null,
+                "description": null,
+                "access_restrictions": []
+            },
+            "savings": 100,
+            "date": "26/05/2023 10:06:12"
+        },
+        {
+            "type": "checkin",
+            "venue": {
+                "id": "5e5b9f3e25e43a4365436fd6",
+                "name": "Sheraton Jumeirah Beach Resort",
+                "short_name": "Sheraton Jumeirah Beach Resort",
+                "type": "hotel",
+                "revolving": true,
+                "phone_number": "04 399 5533",
+                "emirate": "Dubai",
+                "pin_codes": [
+                    {
+                        "code": "4798",
+                        "expiry_date": null,
+                        "date_added": "20/05/2021 05:55",
+                        "staff_id": "5e53a16b25e43a1ecc49581c",
+                        "is_expired": false
+                    }
+                ],
+                "password": "$2y$10$AvlZstcTn7I74PsUK6ZvtOGsY3v0dvCMgmvTEECgoipLAIGxeCM9W",
+                "booking_display_cap": null,
+                "prismic_id": "WeNtcy8AAIx6WJkW",
+                "legacy_id": "39",
+                "is_family_check_in": false,
+                "has_class_check_in": false,
+                "has_limited_access": false,
+                "venue_group_ids": [],
+                "complimentary_class_total": null,
+                "created_at": "2017-01-03T10:41:38+00:00",
+                "modified_at": "2021-09-09T11:47:29+00:00",
+                "deleted_at": null
+            },
+            "product": {
+                "id": "5e9d8ca4b812693c1623910c",
+                "name": "Valentine",
+                "type": "plan",
+                "price": 799,
+                "legacy_id": 35,
+                "is_recurring": false,
+                "duration": "1m",
+                "frequency": "1m",
+                "nb_adults": 1,
+                "nb_children": 3,
+                "is_monthly": 0,
+                "split_payments": null,
+                "payment_price": 799,
+                "plan_group": [
+                    "Legacy Plan",
+                    "legacy"
+                ],
+                "plan_tiers": [],
+                "price_copy": "AED 799/month per adult",
+                "payment_description": "1 payment of AED 799",
+                "terms": null,
+                "description": null,
+                "access_restrictions": []
+            },
+            "savings": 100,
+            "date": "26/05/2023 10:05:26"
+        }
+    ],
+    "limit": 20,
+    "page": 1
+}
